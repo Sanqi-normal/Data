@@ -1,2 +1,14 @@
-{"nickname":"1","content":"1","location":"Hong Kong","time":"2024/12/31 20:21:18"}
-{"nickname":"1","content":"1","location":"Hong Kong","time":"2024/12/31 20:28:24"}
+[
+    {
+        "nickname": "用户A",
+        "content": "这篇文章很不错！",
+        "location": "北京市",
+        "time": "2023-10-01 10:00:00"
+    },
+    {
+        "nickname": "用户B",
+        "content": "我也有同感。",
+        "location": "上海市",
+        "time": "2023-10-02 12:00:00"
+    }
+]
